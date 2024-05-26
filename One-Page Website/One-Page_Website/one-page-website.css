@@ -1,0 +1,34 @@
+body {
+    height: 300vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: #EED1CB;
+
+}
+
+h1 {
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    font-family: sans-serif;
+}
+h2 {
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-left-style: dashed;
+    border-right-style: dashed;
+    font-family: sans-serif;
+}
+p {
+    border-style: outset;
+    border-width: 6px;
+    border-color: black;
+    border-radius: 6px;
+    padding: 8px;
+    font-family: sans-serif, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+}
